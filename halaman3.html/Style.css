@@ -1,0 +1,63 @@
+body {
+	font-family: Arial;
+	font: 16px;
+}
+.judul {
+	width: 43%;
+	height: 50px;
+	margin:auto;
+}
+h2 {
+	width: 23%;
+	height: 50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+img {
+    width: 300px;
+	padding-bottom: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	
+
+
+.Paragraf-1 {
+    background-color:rgb(161, 181, 181);
+	width: 50%;
+	margin :auto;
+	padding: 20px;
+}
+.Paragraf-2 {
+	background-color:rgb(161, 181, 181);
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;	
+	padding: 20px;
+}
+.Paragraf-3 {
+	background-color:rgb(161, 181, 181);
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;	
+	padding: 20px;
+}
+.Paragraf-4 {
+	background-color:rgb(161, 181, 181);
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;	
+	padding: 20px;
+}
+	
+
+
+
+
+
+
+
+
+

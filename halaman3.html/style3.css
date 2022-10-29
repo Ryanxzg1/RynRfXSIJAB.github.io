@@ -1,0 +1,136 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* STyle */
+
+body {
+    font: 16px/28px arial;
+    background-color: #eaeaea;
+    color: #333;
+	background-image: url(INDISCHEPARTIJ.png);
+}
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: #fff;
+}
+.header{
+    padding: 20px;
+}
+.header , .Judul {
+	font-size: 25px;
+	font-weight: bold;
+	margin: auto;
+}
+.header ul li {
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+.header a {
+	text-decoration: none;
+	color: rgb(49, 49, 90);
+	padding: 3px;
+}
+.header a:hover {
+	background-color: rgb(132, 117, 117);
+	color: white;
+}
+.hero {
+	height: 250px;
+	background-image: url(INDISCHEPARTIJ.png);
+	background-size: cover;
+	background-position: 0 -35px;
+	border-top: 3px solid blue;
+	border-bottom: 3px solid red;
+	border-right: 3px solid rgb(116, 87, 87);
+	border-left: 3px solid rgb(116, 87, 87); 
+}
+.content {
+	padding: 20px;
+	margin-top: -5px;
+}
+.content h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+.content .penulis {
+	font-size: 16px;
+	margin-top: 5px;
+}
+.content p {
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+.about h2 {
+	text-align: center;
+	font-size: 25px;
+}
+.about .fb{
+text-align: center;
+padding-bottom: 30px;
+}
+.footer{
+	padding: 20px;
+	background-color: #333;
+}
+.footer .Copy {
+	color: #eaeaea;
+	text-align: center;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
